@@ -2,4 +2,4 @@
 
 Console.WriteLine("Hello, GoodMorning,　New branch!");
 
-Console.WriteLine("Hello, GoodMorning,　PullRequest!");
+Console.WriteLine("Hello, PullRequest!");
